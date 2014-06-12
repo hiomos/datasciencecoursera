@@ -2,4 +2,4 @@ datasciencecoursera
 ===================
 
 ## Data Science Specialization - Coursera
-# Heverth Osorio Repo
+# Heverth Osorio´s Repo
